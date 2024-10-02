@@ -1,0 +1,57 @@
+body {
+    background-color: #f0f8f5;
+}
+
+.navbar {
+    background-color: #2f8f83;
+}
+
+.navbar .nav-link.active {
+    background-color: #227f6e;
+    border-radius: 5px;
+}
+
+.navbar .nav-link {
+    color: #ffffff;
+}
+
+.btn-outline-success {
+    color: #227f6e;
+    border-color: #227f6e;
+}
+
+.btn-outline-success:hover {
+    background-color: #227f6e;
+    color: #fff;
+}
+
+.carousel-caption h1 {
+    background-color: rgba(47, 143, 131, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.featurette-heading {
+    color: #227f6e;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+footer {
+    background-color: #2f8f83;
+    padding: 20px 0;
+}
+
+footer p {
+    color: #ffffff;
+}
+
+footer a {
+    color: #e9ffe9;
+}
+
+footer a:hover {
+    color: #ffffff;
+}
